@@ -1,0 +1,27 @@
+insert Josh Adams
+insert Odell Beckham
+insert Mark Andrews
+insert Jaire Alexander
+Invalid Command
+insert Josh Allen
+Jaire Alexander: Year - 2018, College - Louisville, Position - CB, Height(in) - 0.0, Weight(lbs) - 192.0, Hand Size(in) - 0.0, Arm Length(in) - 0.0, Wonderlic - 0.0, Forty Yard Dash(s) - 4.38, Bench Press(lbs) - 14.0, Vertical Leap(in) - 35.0, Broad Jump(in) - 127.0, Shuttle(s) - 3.98, Three Cone(s) - 6.71, Sixty Yard Dash(s) - 0.0
+Odell Beckham: Year - 2014, College - Louisiana State, Position - WR, Height(in) - 0.0, Weight(lbs) - 198.0, Hand Size(in) - 10.0, Arm Length(in) - 32.75, Wonderlic - 0.0, Forty Yard Dash(s) - 4.43, Bench Press(lbs) - 7.0, Vertical Leap(in) - 38.5, Broad Jump(in) - 122.0, Shuttle(s) - 3.94, Three Cone(s) - 6.69, Sixty Yard Dash(s) - 10.93
+Josh Adams: Year - 2018, College - Notre Dame, Position - RB, Height(in) - 0.0, Weight(lbs) - 213.0, Hand Size(in) - 9.25, Arm Length(in) - 33.75, Wonderlic - 0.0, Forty Yard Dash(s) - 0.0, Bench Press(lbs) - 18.0, Vertical Leap(in) - 0.0, Broad Jump(in) - 0.0, Shuttle(s) - 0.0, Three Cone(s) - 0.0, Sixty Yard Dash(s) - 0.0
+Josh Allen: Year - 2018, College - Wyoming, Position - QB, Height(in) - 0.0, Weight(lbs) - 237.0, Hand Size(in) - 10.13, Arm Length(in) - 33.25, Wonderlic - 0.0, Forty Yard Dash(s) - 4.75, Bench Press(lbs) - 0.0, Vertical Leap(in) - 33.5, Broad Jump(in) - 119.0, Shuttle(s) - 4.4, Three Cone(s) - 6.9, Sixty Yard Dash(s) - 0.0
+Mark Andrews: Year - 2018, College - Oklahoma, Position - TE, Height(in) - 0.0, Weight(lbs) - 256.0, Hand Size(in) - 10.5, Arm Length(in) - 33.5, Wonderlic - 0.0, Forty Yard Dash(s) - 4.67, Bench Press(lbs) - 17.0, Vertical Leap(in) - 31.0, Broad Jump(in) - 113.0, Shuttle(s) - 4.38, Three Cone(s) - 7.34, Sixty Yard Dash(s) - 12.39
+
+found Josh Adams
+remove Wayne Gretsky failed
+remove Mark Andrews
+remove Jaire Alexander
+Invalid Command
+Odell Beckham: Year - 2014, College - Louisiana State, Position - WR, Height(in) - 0.0, Weight(lbs) - 198.0, Hand Size(in) - 10.0, Arm Length(in) - 32.75, Wonderlic - 0.0, Forty Yard Dash(s) - 4.43, Bench Press(lbs) - 7.0, Vertical Leap(in) - 38.5, Broad Jump(in) - 122.0, Shuttle(s) - 3.94, Three Cone(s) - 6.69, Sixty Yard Dash(s) - 10.93
+Josh Adams: Year - 2018, College - Notre Dame, Position - RB, Height(in) - 0.0, Weight(lbs) - 213.0, Hand Size(in) - 9.25, Arm Length(in) - 33.75, Wonderlic - 0.0, Forty Yard Dash(s) - 0.0, Bench Press(lbs) - 18.0, Vertical Leap(in) - 0.0, Broad Jump(in) - 0.0, Shuttle(s) - 0.0, Three Cone(s) - 0.0, Sixty Yard Dash(s) - 0.0
+Josh Allen: Year - 2018, College - Wyoming, Position - QB, Height(in) - 0.0, Weight(lbs) - 237.0, Hand Size(in) - 10.13, Arm Length(in) - 33.25, Wonderlic - 0.0, Forty Yard Dash(s) - 4.75, Bench Press(lbs) - 0.0, Vertical Leap(in) - 33.5, Broad Jump(in) - 119.0, Shuttle(s) - 4.4, Three Cone(s) - 6.9, Sixty Yard Dash(s) - 0.0
+
+insert Dorance Armstrong
+Odell Beckham: Year - 2014, College - Louisiana State, Position - WR, Height(in) - 0.0, Weight(lbs) - 198.0, Hand Size(in) - 10.0, Arm Length(in) - 32.75, Wonderlic - 0.0, Forty Yard Dash(s) - 4.43, Bench Press(lbs) - 7.0, Vertical Leap(in) - 38.5, Broad Jump(in) - 122.0, Shuttle(s) - 3.94, Three Cone(s) - 6.69, Sixty Yard Dash(s) - 10.93
+Josh Adams: Year - 2018, College - Notre Dame, Position - RB, Height(in) - 0.0, Weight(lbs) - 213.0, Hand Size(in) - 9.25, Arm Length(in) - 33.75, Wonderlic - 0.0, Forty Yard Dash(s) - 0.0, Bench Press(lbs) - 18.0, Vertical Leap(in) - 0.0, Broad Jump(in) - 0.0, Shuttle(s) - 0.0, Three Cone(s) - 0.0, Sixty Yard Dash(s) - 0.0
+Josh Allen: Year - 2018, College - Wyoming, Position - QB, Height(in) - 0.0, Weight(lbs) - 237.0, Hand Size(in) - 10.13, Arm Length(in) - 33.25, Wonderlic - 0.0, Forty Yard Dash(s) - 4.75, Bench Press(lbs) - 0.0, Vertical Leap(in) - 33.5, Broad Jump(in) - 119.0, Shuttle(s) - 4.4, Three Cone(s) - 6.9, Sixty Yard Dash(s) - 0.0
+Dorance Armstrong: Year - 2018, College - Kansas, Position - DE, Height(in) - 0.0, Weight(lbs) - 257.0, Hand Size(in) - 10.0, Arm Length(in) - 34.75, Wonderlic - 0.0, Forty Yard Dash(s) - 4.87, Bench Press(lbs) - 20.0, Vertical Leap(in) - 30.0, Broad Jump(in) - 118.0, Shuttle(s) - 4.23, Three Cone(s) - 7.12, Sixty Yard Dash(s) - 11.82
+

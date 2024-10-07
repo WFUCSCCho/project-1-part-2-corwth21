@@ -1,25 +1,25 @@
 
-insert 111
-             insert 23
+insert Josh Adams
+             insert Odell Beckham
 
-insert 99
-insert         4
+insert Mark Andrews
+insert         Jaire Alexander
 
 isEmpty
 
-    insert     111
+    insert     Josh Allen
 
 print
 
 
-search 9
+search Josh Adams
 
-remove 23
+remove Wayne Gretsky
 
-remove 4
-remove 999999
+remove Mark Andrews
+remove Jaire Alexander
 isEmptyasfh
 print
 
-insert 123
+insert Dorance Armstrong
 print
